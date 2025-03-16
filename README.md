@@ -37,4 +37,8 @@ To run the project locally, follow these simple steps:
 
 ### 1. Clone the Repository:
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/yourusername/weather-forecast-app.git
+=======
+git clone https://github.com/yourusername/weather-forecast-app.git
+>>>>>>> 72d9c17604f3fd43bf732a0f2171fee473d9a009
